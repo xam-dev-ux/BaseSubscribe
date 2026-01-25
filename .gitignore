@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+keeper/node_modules/
+
+# Build outputs
+cache/
+artifacts/
+typechain-types/
+dist/
+frontend/dist/
+keeper/dist/
+
+# Environment
+.env
+.env.local
+frontend/.env
+keeper/.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+coverage.json
+
+# Misc
+*.bak

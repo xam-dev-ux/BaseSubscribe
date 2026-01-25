@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/icon-1024.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary Meta Tags -->
+    <title>BaseSubscribe - Decentralized Subscriptions on Base</title>
+    <meta name="title" content="BaseSubscribe - Decentralized Subscriptions on Base" />
+    <meta name="description" content="Create and manage recurring crypto subscriptions on Base. Support creators with USDC payments, cancel anytime with pro-rata refunds." />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://basesubscribe.app/" />
+    <meta property="og:title" content="BaseSubscribe - Crypto Subscriptions" />
+    <meta property="og:description" content="Create and manage recurring crypto subscriptions on Base. The easiest way to monetize your content with crypto." />
+    <meta property="og:image" content="https://basesubscribe.app/cover-1200x630.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://basesubscribe.app/" />
+    <meta property="twitter:title" content="BaseSubscribe - Crypto Subscriptions" />
+    <meta property="twitter:description" content="Create and manage recurring crypto subscriptions on Base. The easiest way to monetize your content with crypto." />
+    <meta property="twitter:image" content="https://basesubscribe.app/cover-1200x630.png" />
+
+    <!-- Farcaster Mini App Metadata -->
+    <meta
+      property="fc:miniapp"
+      content='{
+        "version": "next",
+        "imageUrl": "https://basesubscribe.app/cover-1200x630.png",
+        "button": {
+          "title": "Open BaseSubscribe",
+          "action": {
+            "type": "launch_miniapp",
+            "name": "BaseSubscribe",
+            "url": "https://basesubscribe.app",
+            "splashImageUrl": "https://basesubscribe.app/splash-200x200.png",
+            "splashBackgroundColor": "#0052FF"
+          }
+        }
+      }'
+    />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#0052FF" />
+
+    <!-- Apple Touch Icon -->
+    <link rel="apple-touch-icon" href="/icon-1024.png" />
+
+    <!-- Manifest -->
+    <link rel="manifest" href="/.well-known/farcaster.json" />
+  </head>
+  <body class="bg-gray-950 text-white antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
