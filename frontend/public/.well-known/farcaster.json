@@ -1,31 +1,31 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
-    "payload": "eyJkb21haW4iOiJiYXNlc3Vic2NyaWJlLmFwcCJ9",
-    "signature": "PLACEHOLDER_SIGNATURE_UPDATE_WITH_REAL_SIGNATURE"
+    "header": "eyJmaWQiOjU4MDczOCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDEwOUM5ZTgwMTNFY2U4ODZENGY4QUUyNjkyNTRkZTkzMEFFZmNkNDQifQ",
+    "payload": "eyJkb21haW4iOiJiYXNlLXN1YnNjcmliZS52ZXJjZWwuYXBwIn0",
+    "signature": "YYvdnBpCiT2CSXFFfYSjc8XBgTEA0bbfI965cn5b0TVxKjxuco3EuU5Ej6/jmtyK731LHspuApXi8rYRMOwm4Rw="
   },
   "miniapp": {
     "version": "1",
     "name": "BaseSubscribe",
-    "homeUrl": "https://basesubscribe.app",
-    "imageUrl": "https://basesubscribe.app/cover-1200x630.png",
-    "iconUrl": "https://basesubscribe.app/icon-1024.png",
-    "splashImageUrl": "https://basesubscribe.app/splash-200x200.png",
+    "homeUrl": "https://base-subscribe.vercel.app",
+    "imageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
+    "iconUrl": "https://base-subscribe.vercel.app/icon-1024.png",
+    "splashImageUrl": "https://base-subscribe.vercel.app/splash-200x200.png",
     "splashBackgroundColor": "#0052FF",
     "subtitle": "Crypto Subscriptions on Base",
     "description": "Create and manage recurring crypto subscriptions on Base. Support creators with USDC payments, cancel anytime with pro-rata refunds.",
     "screenshotUrls": [
-      "https://basesubscribe.app/screenshots/screenshot-1.png",
-      "https://basesubscribe.app/screenshots/screenshot-2.png",
-      "https://basesubscribe.app/screenshots/screenshot-3.png"
+      "https://base-subscribe.vercel.app/screenshots/screenshot-1.png",
+      "https://base-subscribe.vercel.app/screenshots/screenshot-2.png",
+      "https://base-subscribe.vercel.app/screenshots/screenshot-3.png"
     ],
     "primaryCategory": "finance",
     "tags": ["subscriptions", "payments", "base", "usdc", "creators", "recurring"],
-    "heroImageUrl": "https://basesubscribe.app/cover-1200x630.png",
+    "heroImageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
     "tagline": "Decentralized Subscriptions",
     "ogTitle": "BaseSubscribe - Crypto Subscriptions",
     "ogDescription": "Create and manage recurring crypto subscriptions on Base. The easiest way to monetize your content with crypto.",
-    "ogImageUrl": "https://basesubscribe.app/cover-1200x630.png",
+    "ogImageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
     "noindex": false
   }
 }
