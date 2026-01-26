@@ -22,8 +22,8 @@
     "tags": ["subscriptions", "payments", "base", "usdc", "creators"],
     "heroImageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
     "tagline": "Decentralized Subscriptions",
-    "ogTitle": "BaseSubscribe - Crypto Subscriptions",
-    "ogDescription": "Create and manage recurring crypto subscriptions on Base. The easiest way to monetize your content with crypto.",
+    "ogTitle": "BaseSubscribe",
+    "ogDescription": "Recurring crypto subscriptions on Base. Support creators with USDC payments.",
     "ogImageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
     "noindex": false
   }
