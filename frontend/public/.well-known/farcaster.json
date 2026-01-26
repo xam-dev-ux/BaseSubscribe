@@ -8,10 +8,9 @@
     "version": "1",
     "name": "BaseSubscribe",
     "homeUrl": "https://base-subscribe.vercel.app",
-    "imageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
     "iconUrl": "https://base-subscribe.vercel.app/icon-1024.png",
-    "splashImageUrl": "https://base-subscribe.vercel.app/splash-200x200.png",
-    "splashBackgroundColor": "#0052FF",
+    "splashImageUrl": "https://base-subscribe.vercel.app/splash.png",
+    "splashBackgroundColor": "#0a0a0f",
     "subtitle": "Crypto Subscriptions on Base",
     "description": "Create and manage recurring crypto subscriptions on Base. Support creators with USDC payments, cancel anytime with pro-rata refunds.",
     "screenshotUrls": [
@@ -20,7 +19,7 @@
       "https://base-subscribe.vercel.app/screenshots/screenshot-3.png"
     ],
     "primaryCategory": "finance",
-    "tags": ["subscriptions", "payments", "base", "usdc", "creators", "recurring"],
+    "tags": ["subscriptions", "payments", "base", "usdc", "creators"],
     "heroImageUrl": "https://base-subscribe.vercel.app/cover-1200x630.png",
     "tagline": "Decentralized Subscriptions",
     "ogTitle": "BaseSubscribe - Crypto Subscriptions",
